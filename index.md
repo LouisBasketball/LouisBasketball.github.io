@@ -1,2 +1,1 @@
-Heute ist ein schöner Tag
-!
+Test 
